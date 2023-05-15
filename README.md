@@ -9,7 +9,7 @@ ____
 *Python*
 ____
 ## Библиотеки
-*Pandas* *Sklearn* *Matplotlib* *Statsmodels* *Tensorflow* *Keras*
+*Pandas* *Sklearn* *Matplotlib* *Statsmodels*
 ____
 ## Описание данных
 Исследуемым объектом выступают данные о сельскохозяйственных наблюдениях на различных стадиях за урожаем подсолнечника. 
